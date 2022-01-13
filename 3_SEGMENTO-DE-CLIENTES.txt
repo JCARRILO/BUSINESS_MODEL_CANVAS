@@ -1,0 +1,25 @@
+¿A quién me dirijo?
+¿Para quién estamos creando valor?
+¿Quiénes son nuestros clientes más importantes?
+Ideas de Como Identificar a Tu Mercado:
+Entrar en el mapa mental del problema, necesidades, del dolor que tenga. Ser valorado y util para ese segmento de cliente. Como piensan como actuan, que hacen, como resuelven el problema. Ponerle un nombre y apellido. Ten en cuenta las personas similares.
+
+TAMAÑO DE MERCADO 
+Este enfoque es muy común realizarlo cuando no tenemos tanto conocimiento del mercado donde nos vamos a meter.
+
+|------TAM------|
+| -----SAM----- |
+|  ----SOM----  |
+Tam: El universo que incluye personas que tienen mascotas.
+Sam: Personas que puedan requerir un cuidado de mascotas porqué tienen que viajar. Limito un poco mas.
+Som: Se relaciona hacia los recursos que expongo, para ofrecer y abastecer el servicio. Reconocer tus propias limitaciones. Mercado que puedo servir actualmente en el SAM.
+Calcular el SOM no es tan simple, no es tarea fácil. Debemos analizar primero la capacidad que tenemos para servir: Calculamos que podemos capturar valor en el 20% del SAM y luego contradecimos los costos evaludados que nos puede traer problemas como afectar calidad de producto y la experiencia de usuario.
+
+APRENDE A SEGMENTAR
+1.CANVAS_SEGDECLI
+--POSTITVERDE
+---CUIDADORESDEMASCOTAS
+--POSTITROJO
+---DUEÑOSDEMASCOTAS
+
+
