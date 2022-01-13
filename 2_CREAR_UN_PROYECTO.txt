@@ -1,0 +1,8 @@
+PROBLEMATICA A RESOLVER
+Utilizando Business Model Canvas trataremos de resolver la necesidad que existe cuando los dueños de mascotas se ausentan del hogar por diversas razones y tienen que dejarlas al cuidado de alguien más.
+SOLUCIÓN
+#CUIDOTUMASCOTA: Una plataforma, Marketplace, que conecta a dueños de mascotas con cuidadores que hospedan perros y cachorros en sus casas, brindando todo su cariño y seguridad.
+CÓMO FUNCIONA
+-En la plataforma, los cuidadores de mascotas ofrecen sus servicios de hospedaje, contando quiénes son, mostrando fotos de su hogar.
+-Y los dueños de mascotas pueden acudir a la oferta de cuidadores y seleccionar y contratar el que más les convence.
+-Ambas partes reciben y otorgan reseñas sobre la experiencia, y así van generando reputación,especialmente los cuidadores de mascotas.
