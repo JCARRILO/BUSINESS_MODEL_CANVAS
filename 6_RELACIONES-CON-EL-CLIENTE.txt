@@ -1,0 +1,29 @@
+¿Qué tipo de relaciones esperan los clientes que establezcan con ellos?
+¿Qué relaciones hemos establecido?
+¿Cómo se integran en el modelo de negocio?
+"Las relaciones que una empresa establece con un segmento específico de mercado. Las relaciones pueden variar desde personales a automatizadas, y tiene una influencia profunda sobre la experiencia del cliente en general."
+Podemos distinguir varias categorias de relaciones con el cliente, las cuales pueden coexistir:
+-Asistencia personales
+-Asistencia personal dedicada
+-Autoservicio
+-Servicios Automatizados
+-Comunidades
+-Co-Creación
+
+APRENDE A SEGMENTAR
+4.CANVAS_RELACLIENTES
+--POSTITVERDE
+---CUIDADORESDEMASCOTA
+----Mails, Mailing
+----Chat en plataforma.
+----Soporte 24h.
+----Whatsapp.
+----Blog.
+
+--POSTITROJO
+---DUEÑOSDEMASCOTAS
+----Mails, Mailing.
+----Chat en plataforma.
+----Soporte 24h.
+----Whatsapp.
+----Blog.
