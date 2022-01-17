@@ -1,0 +1,32 @@
+¿Por qué valor están dispuestos a pagar los clientes?
+¿Por qué pagan hoy?
+¿Mediante qué formas de pago?
+¿Cómo preferirían pagar?
+"Representa el dinero que la empresa genera de cada segmento de mercado. Si los clientes representan el corazón de un modelo de negocio, las fuentes de ingreso son sus arterias."
+Un modelo de negocio puede involucrar dos tipos diferentes de fuentes de ingreso:
+-Ingresos de transacciones resultantes de pagos continuos para entregar una proposición de valor a los clientes o de proveer soporte post venta al cliente.
+Existen varias maneras de generar fuentes de ingreso:
+-Venta de activos
+-Prima por Uso/Consumo
+-Primas de suscripción
+-Prestar/Rentar/Alquilar
+-Licencia/Franquicia
+-Primas de broker
+-Publicitar
+
+APRENDE A SEGMENTAR
+5.CANVAS_FLUJODEINGRESOS
+--POSTITVERDE
+---CUIDADORESDEMASCOTA
+----Retención de un 10% del monto de la reserva.
+|
+--->FEE de servicios
+
+
+--POSTITROJO
+---DUEÑOSDEMASCOTAS
+----Sumaremos un 15% al valor de la reserva como FEE.
+
+--POSTITAMARILLO
+---TERCEROS
+----Cobro por Publicidad a veterinarios.

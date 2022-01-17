@@ -29,3 +29,7 @@ APRENDE A SEGMENTAR
 ----A través de automatización estaremos enviando acciones al email.
 ----A través de automatización estaremos enviando email.
 ----Estaremos también en Redes Sociales. Mensajes destinados al dueño.
+----Veterinarias.
+
+--POSTITAMARILLO
+---VETERINARIAS
