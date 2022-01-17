@@ -1,0 +1,55 @@
+¿Qué valor estamos ofreciendo a los clientes?
+¿Qué problemas solucionamos?
+¿Qué necesidad satisfacemos?
+¿Qué beneficios aporta?
+PRODUCT DISCOVERY
+Comprender y saber lo que tuss clientes aún no saben.
+Recuerda a Henry Ford: "Si le hubiese preguntado a mis clientes que es lo que necesitaban, me hubieran dicho que un caballo más rápido" -Henry Ford-
+DESIGN THINKING O PRODUCT THINKING
+Para intentar entender un poco mejor...
+----------------------------------
+ | UX     | PRODUT |  PRODUCT   |
+-----------        ---------------
+ |  DSGN  |THINKING| MANAGEMENT |
+----------------------------------
+DESIGN THINKING
+Pensamiento de diseño es una metología para crear productos y servicios innovadores, centrandonos en el usuario.
+Proceso DESIGN THINKING
+-EMPATIZAR
+    --DEFINIR
+        ---IDEAR 
+            ----PROTOTIPAR
+                -----TESTEAR
+Lograr decirle al cliente esto es lo que usted puede hacer con nuestro producto, se hace através de la metodología:
+MVP & MVE
+(
+    Que significa Producto mínimo víable o experimento mínimo víable. 
+    El truco es tomar todas las variables y crear un producto para mis clientes que entregue valor, lo puedo ir testeando y lo puedo ir adaptando de manera flexible, con pequeños cambios y mejoras incrementales, recibiendo el feedback de mis clientes.
+    "Es aquella versión de un nuevo producto que permite al equipo juntar la máxima cantidad de aprendizaje validado sobre los clientes con el menor esfuerzo posible"
+    Tipos de Experimentos que podemos realizar:
+    1. Landing Page
+    2. Video explicativo
+    3. Simple website con fotos
+    4. Otros
+)
+DEFINIR LA PROPUESTA DE VALOR 
+Para convencer al público es imprescindible que entienda porqué debe prestarte atención. Y para ello nada mejor que una buena propuesta de valor. Es muy importante que la propuesta de valor tenga estos 3 conceptos:
+         1.RELEVANTE
+3.CREIBLE           2.DIFERENTE
+
+Relevante: Has hincapie en como estas resolviendo el problema, o mejorando su situacion, convirtiendote en relevante para tu usuario - cliente. 
+Valor: Que especifique donde le traigo un beneficio y donde le aporto un valor, para que sea CREÍBLE ese Valor.
+Diferenciación: Cuenta al cliente ideal porqué debe elegirte a ti y no a la competencia.
+
+Tabla. Ayuda para definir una propuesta de valor enfatizando en la diferenciación con el competidor. 
+Necesidades     | Competidor1 | Competidor2 | Yo
+Básica1         | Si          | Si          | Si
+Básica2         | Si          | Si          | Si
+Performance1    | 3           | 3           | 5
+Performance2    | 2           | 5           | 2
+Performance3    | 4           | 5           | 3
+Deleite1        | S           | N           | N
+Deleite2        | N           | N           | S 
+        
+
+
