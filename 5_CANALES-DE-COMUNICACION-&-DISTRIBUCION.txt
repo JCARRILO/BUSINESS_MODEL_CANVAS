@@ -1,0 +1,31 @@
+¿A través de qué canales / medios se conectará y se atenderá a los clientes?
+¿Cómo podemos llegar a ellos?
+¿Qué canales funcionan mejor?
+De que manera, nosotros vamos a hacer llegar nuestra propuesta de valor a nuestros clientes.
+"Cómo la empresa se comunica y alcanza a sus segmentos de mercado para entregar una propuesta de valor. Comunicación, distribución y canales de venta son la interface con los clientes. Los canales son puntos de contacto que juegan un rol importante en la experiencia del cliente."
+Los canales sirven diferentes funciones incluyendo:
+1. Elevar la percepción entre los clientes acerca de los servicios y productos de la empresa.
+2. Ayudar a los clientes a evaluar la proposición de valor.
+3. Permitir a los clientes la compra de productos y servicios especificos.
+4. Entregar una proposición de valor a los clientes.
+5. Proveer soporte post-compra de parte de los clientes.
+
+APRENDE A SEGMENTAR
+3.CANVAS_DISTRICOMUNICA
+--POSTITVERDE
+---CUIDADORESDEMASCOTA
+----Reservar potenciales reservas. Decir si o no.
+----Gestion de mensajes.
+----Mails automáticos de acciones.
+----Mailings de promocion e información.
+----Redes sociales para avisarles sobre seguros, ganar mas dinero, entre otras.
+
+--POSTITROJO
+---DUEÑOSDEMASCOTAS
+----Llegaremos a ellos principalmente a través de la plataforma.
+----Seleccionar cuidadores a través de la plataforma.
+----Hacer las reservas a través de la plataforma.
+----Gestión de los mensajes entre Cuidador y Dueño de mascota sobre el estado y lugar de la mascota.
+----A través de automatización estaremos enviando acciones al email.
+----A través de automatización estaremos enviando email.
+----Estaremos también en Redes Sociales. Mensajes destinados al dueño.

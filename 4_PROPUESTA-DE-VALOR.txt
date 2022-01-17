@@ -50,6 +50,25 @@ Performance2    | 2           | 5           | 2
 Performance3    | 4           | 5           | 3
 Deleite1        | S           | N           | N
 Deleite2        | N           | N           | S 
-        
+
+APRENDE A SEGMENTAR
+2.CANVAS_PROPVALOR
+--POSTITVERDE
+---CUIDADORESDEMASCOTA
+---Tener mascota para ti cuando quieras.
+---Tener dinero extra.
+---Te acercamos los clientes a través de la Plataforma.
+---Garantía veterinaria para la mascota que cuidas totalmente gratis.
+---Gestionar las reservas en línea, faciles y seguras a través de la plataforma.
+
+--POSTITROJO
+---DUEÑOSDEMASCOTAS
+---Encontrarás un cuidador fiable a través de la plataforma.        
+---Pagos a través de la plataforma.        
+---Viaja tranquilo.        
+---Atención 24 horas.    
+---Contacto constante con el cuidador.
+---100% seguro.
+---Cuidadores cualificados.
 
 
