@@ -1,0 +1,33 @@
+¿Qué actividades claves requiere nuestra propuesta de valor?
+¿Y nuestros canales?¿Nuestras relaciones?
+¿Nuestras fuentes de ingresos?
+"Son las acciones mas importantes que debe realizar una empresa para operar exitosamente. Como los recursos claves, estos son necesarios para crear y ofertar una proposición de valor, alcanzar mercados, mantener las relaciones con los clientes, y generar ingresos. Y como los recursos claves, las actividades claves dependen del tipo de modelo de negocio."
+Las actividades claves pueden ser categorizadas como sigue:
+-Producción: Relacionadas con el diseño, realización, y entrega de un producto en cantidades.
+-Solución de problemas: Relacionadascon desarrollar soluciones a problemas de los clientes. Operaciones de consultoría, hospitales, y otras organizaciones de servicio.
+-Plataforma/Red: Modelos de negocio diseñados con una plataforma como un recurso clave.
+
+7.CANVAS_ACTIVIDADESCLAVES
+--POSTITVERDE
+---CUIDADORESDEMASCOTA
+----Gestión de la plataforma.(Reservas)
+----Asistencia en la carga de perfiles del Cuidador.
+----Gestión del sistema de pagos y contabilidad.
+----Gestión del Chat, Whatsapp (Responder).
+----Armado y distribución de panfletos vetes.
+----Armado y envío de mailings.
+----Gestión de redes.
+-----Creación de Roles Internos según necesite las actividades claves.
+--POSTITROJO
+---DUEÑOSDEMASCOTAS
+----Gestión plataforma 
+----Asistencia en los perfiles "Dueño" 
+----Gestión del sistema de pagos y contabilidad 
+----Armados de acuerdos a veterinarios y  
+----Gestión de mensajes.
+----Gestión de mensajes.
+----Armado y distribución panfletos y envío mailings
+----Gestión de redes
+--POSTITAMARILLO
+---TERCEROS
+----
