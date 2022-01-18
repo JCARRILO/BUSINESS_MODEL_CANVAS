@@ -1,0 +1,39 @@
+¿Qué recursos claves requiere nuestra propuesta de valor?
+¿Y nuestros canales? ¿Nuestras relaciones?
+¿Nuestras fuentes de ingresos?
+"Entendidos como los mas importantes activos requeridos para hacer funcionar el modelo de negocio. Cada negocio requiere recursos claves, estos le permiten a la empresa crear y ofertar una propuesta de valor, alcanzar mercados, mantener relaciones con los segmentos de mercado y generar ingresos."
+Diferentes tipos de recursos son necesarios dependiendo en el tipo de modelo de negocio:
+-Físicos: Infraestructura/tecnología
+-Intelectual: Marcas, conocimiento propietario, patentes y derechos de autor,alianzas y bases de datos de clientes-Humano: Recursos humanos
+Financiero: Recursos financieros y/o garantías financieras como el efectivo, líneas de crédito, opciones de acciones para contratar empleados claves.
+
+APRENDE A SEGMENTAR
+6.CANVAS_RECURSOSCLAVES
+--POSTITVERDE
+---CUIDADORESDEMASCOTA
+----Plataforma:
+*Pasarela de pagos 
+*Sistema de mensajería (Whatsapp)
+*Chat/Blog
+*Equipo Humano
+*Plataforma Mailings 
+*Panfletos para veterinarias 
+*Acuerdos de referal con veterinarias 
+*Redes Sociales 
+Recordatorios Envío fotos y vídeos
+--POSTITROJO
+---DUEÑOSDEMASCOTAS
+----Plataforma:
+*Pasarela de pagos 
+*Sistema de mensajería 
+*Chat/Blog 
+*Equipo Humano 
+*Plataforma Mailing (Mailchimp)
+*Panfletos veterinarias 
+*Acuerdos refererals con veterinarias 
+*Redes Sociales 
+*Recordatorio enviar reseña 
+
+--POSTITAMARILLO
+---TERCEROS
+----
