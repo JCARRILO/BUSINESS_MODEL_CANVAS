@@ -1,0 +1,26 @@
+¿Cuáles son los costos más importantes inherentes a nuestro modelo de negocios?
+¿Qué Recursos Clave son los más costosos?
+¿Qué Actividades Clave son las más costosas?
+"Describe todos los costos incurridos para operar un modelo de negocio. La identificación y el ordenamiento de los costos, los rubros y tipos (Fijo, Variable, Semifijo, etc.) serán claves para las decisiones relacionadas a la eficiencia y a la escalabilidad del modelo."
+Las estructuras de costos pueden tener las siguientes caracteriisticas:
+-Costos fijos (Por ejemplo alquiler de oficinas, Coworking)
+-Costos variables (Por ejemplo Van variando según vaya aumentando mi producción)
+-Economía de escala (Por ejemplo cuando empresas compran en grandes cantidades optinen fabulosos descuentos)
+-Economía de amplitud (Por ejemplo ese costo que esta inherente y puede usarse en toda la actividad empresarial, por ejemplo la oficina de legales)
+"En definitiva existen empresas impulsadas por el costo (VivaAir) o las que existen y son impulsadas por el valor (Apple)"
+8.CANVAS_ESTRUCTURADELCOSTO
+--POSTITVERDE
+---CUIDADORESDEMASCOTA
+----
+--POSTITROJO
+---DUEÑOSDEMASCOTAS
+----
+--POSTITAMARILLO
+---TERCEROS
+----Pasarela de pagos.
+----Mailchimp.
+----Hosting/Mails Transaccional
+----Chat Bot 
+----Whatsapp 
+----Empresa legales (Una vez)
+----Garantía Veterinaria 
